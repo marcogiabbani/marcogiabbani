@@ -111,7 +111,18 @@ https://www.linkedin.com/in/marco-giabbani-713117248/ " target="_blank">
 Participé en un equipo de desarrollo ágil con sprints de una semana presentándole a un Product Owner avances sobre el desarrollo de una app completa de un E-learning con diseño y desarrollo de las siguientes features:
 - Catálogo de cursos, con búsquedas por profesor o título, filtros combinados, ordenamientos, carrito de compras, favoritos, autenticación de terceros (Firebase), administración de usuarios y admins, borrado lógico, pasarela de pagos (Stripe), deployment (Vercel y Render), notificaciones y envío de emails transaccionales (Nodemailer), persistencia de datos.
 - Front: React, Redux, CSS, Flowbite
-- Back desarrollado en Node.js con Express. Base de datos en PostgreSQL y Sequelize.
+- Back desarrollado en Node.js con Express. Base de datos en PostgreSQL y Sequelize
+
+<br>
+
+### Proyecto individual de soyHenry
+
+#### DogApp
+[*link al repositorio*](https://github.com/marcogiabbani/PI-Dogs-main)
+
+Desarrollé una app completa que solicita información de razas de perros a una API externa. Luego crea un catálogo de las mismas, con paginado, barra de búsqueda, ordenamientos y filtrados. Además, tiene la posibilidad de crear nuevas razas de perros mediante un formulario controlado que aloja las razas creadas en una base de datos propia del proyecto.
+En este proyecto apliqué las siguientes tecnologías:
+PostreSQL, Express, Sequelize, React, Redux, Node, HTML, CSS.
 
  
  
