@@ -18,8 +18,7 @@ Here are some ideas to get you started:
   printf("Hello, world!");
 ```
  "*Si esto no es la primer linea que programan, la computadora explota*", así empezó la clase mi profesor de Algoritmos II. 
- 
- 
+
  # Hola!
  
 Mi nombre es Marco Giabbani.
@@ -31,47 +30,7 @@ Estoy constatnemente aprendiendo nuevas tecnologías.
 
 > Para profundizar mis conocimientos estoy haciendo el curso [full stack open](https://fullstackopen.com/en/) de la Universidad de Helsinki.
 
-
-
-
 <br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/https://github.com/marcogiabbani" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/
-https://www.linkedin.com/in/marco-giabbani-713117248/ " target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a> 
-</div>  
-<br/>
-<div align="center">
- o envíame un e-mail a mtgiabbani@gmail.com
-</div>
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=marcogiabbani&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-------
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-
-###
 
 <h2 align="left">I code with</h2>
 
@@ -106,19 +65,29 @@ https://www.linkedin.com/in/marco-giabbani-713117248/ " target="_blank">
 
 ###
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=marcogiabbani&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
 
 ###
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
+## Connect with me  
+<div align="center">
+<a href="https://github.com/https://github.com/marcogiabbani" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/
+https://www.linkedin.com/in/marco-giabbani-713117248/ " target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a> 
+</div>  
+<br/>
+<div align="center">
+ o envíame un e-mail a mtgiabbani@gmail.com
+</div>
+  
+------
 
 ### Proyecto final de soyHenry
 
