@@ -66,8 +66,11 @@ Estoy constatnemente aprendiendo nuevas tecnologías.
 ###
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=marcogiabbani&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+ <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcogiabbani&show_icons=true&count_private=true&hide_border=true&theme=dracula&card_width=320" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&username=marcogiabbani" align="center" alt="languages graph" height=195  />
+</div>
 <br/>  
 
 ###
@@ -112,7 +115,7 @@ PostreSQL, Express, Sequelize, React, Redux, Node, HTML, CSS.
 
  
  
- 
+
  
  
  
