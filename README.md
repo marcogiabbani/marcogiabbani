@@ -24,7 +24,7 @@ Here are some ideas to get you started:
  
 Mi nombre es Marco Giabbani.
 
-Soy un estudiante de la Licenciatura de Análisis de Sistemas en la [facultad de Infeniería de la Universidad de Buenos Aires.](https://www.fi.uba.ar/).
+Soy un estudiante de la Licenciatura de Análisis de Sistemas en la [facultad de Ingeniería de la Universidad de Buenos Aires.](https://www.fi.uba.ar/).
 
 Estoy constatnemente aprendiendo nuevas tecnologías.
 > Recientemente termine el programa de desarrollo fullstack de [soyHenry.](https://www.soyhenry.com/)
