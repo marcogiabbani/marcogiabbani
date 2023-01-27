@@ -6,12 +6,7 @@
  "*Si esto no es la primer linea que programan, la computadora explota*", así empezó la clase mi profesor de Algoritmos II. 
 
 
-## Github Stats  
 
- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcogiabbani&show_icons=true&count_private=true&hide_border=true&theme=dracula&card_width=220" align="center" /><img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&username=marcogiabbani" align="center" alt="languages graph" height=195  />
-</div>
-<br/>  
 
 
  # Hola!
@@ -78,6 +73,13 @@ https://www.linkedin.com/in/marco-giabbani-713117248/ " target="_blank">
 <div align="center">
  o envíame un e-mail a mtgiabbani@gmail.com
 </div>
+
+## Github Stats  
+
+ <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcogiabbani&show_icons=true&count_private=true&hide_border=true&theme=dracula&card_width=220" align="center" /><img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&username=marcogiabbani" align="center" alt="languages graph" height=195  />
+</div>
+<br/>  
   
 ------
 
