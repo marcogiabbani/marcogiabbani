@@ -1,23 +1,19 @@
 
-<!--
-**marcogiabbani/marcogiabbani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ```cpp
   printf("Hello, world!");
 ```
+
  "*Si esto no es la primer linea que programan, la computadora explota*", así empezó la clase mi profesor de Algoritmos II. 
+
+
+## Github Stats  
+
+ <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcogiabbani&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&username=marcogiabbani" align="center" alt="languages graph" height=195  />
+</div>
+<br/>  
+
 
  # Hola!
  
@@ -65,13 +61,7 @@ Estoy constatnemente aprendiendo nuevas tecnologías.
 
 ###
 
-## Github Stats  
 
- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcogiabbani&show_icons=true&count_private=true&hide_border=true&theme=dracula&card_width=320" align="center" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&username=marcogiabbani" align="center" alt="languages graph" height=195  />
-</div>
-<br/>  
 
 ###
 
