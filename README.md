@@ -1,5 +1,3 @@
-<h1> 🏗️ 👷 Readme in construction 🚧 🛠️ </h1>
-
 
 ```cpp
   printf("Hello, world!");
